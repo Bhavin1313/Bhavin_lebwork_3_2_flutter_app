@@ -1,16 +1,1 @@
-# cf3_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-05-17-15-20-53-33_61d841b09ab1fd74d6801c56d97fffb8 1](https://github.com/Bhavin1313/Bhavin_lebwork_3_2_flutter_app/assets/99348404/e528211c-90f7-44fd-a3d3-f6eefcb3ea81)
